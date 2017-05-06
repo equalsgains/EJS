@@ -1,5 +1,5 @@
 {
-  "name": "ejs",
+  "name": "projectEJS",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -9,6 +9,7 @@
   "author": "Luis Quintanilla",
   "license": "ISC",
   "dependencies": {
+    "ejs": "^2.5.6",
     "express": "^4.15.2"
   }
 }
